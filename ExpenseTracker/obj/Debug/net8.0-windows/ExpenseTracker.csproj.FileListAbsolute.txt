@@ -1,0 +1,17 @@
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\bin\Debug\net8.0-windows\ExpenseTracker.exe
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\bin\Debug\net8.0-windows\ExpenseTracker.deps.json
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\bin\Debug\net8.0-windows\ExpenseTracker.runtimeconfig.json
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\bin\Debug\net8.0-windows\ExpenseTracker.dll
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\bin\Debug\net8.0-windows\ExpenseTracker.pdb
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.Form1.resources
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.AssemblyInfo.cs
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.dll
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\refint\ExpenseTracker.dll
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.pdb
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.genruntimeconfig.cache
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ref\ExpenseTracker.dll
+C:\Users\Bindu\OneDrive\Desktop\C# Files\ExpenseTracker\obj\Debug\net8.0-windows\ExpenseTracker.Properties.Resources.resources
